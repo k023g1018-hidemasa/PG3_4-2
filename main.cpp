@@ -18,7 +18,7 @@ int main() {
 	printf("è¨Ç≥Ç¢íl: %0.2f\n", ans4.Min());
 	printf("è¨Ç≥Ç¢íl: %0.2lf\n", ans5.Min());
 	printf("è¨Ç≥Ç¢íl: %0.2lf\n", ans6.Min());
-
+	//
 
 	return 0;
 }
